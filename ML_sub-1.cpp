@@ -8,6 +8,7 @@ int Size_arr[] = {10,100,1000,10000};
 int index_size = 0;
 using namespace std;
 namespace plt= matplotlibcpp;
+int manju;
 
 void displayvector(vector <double>);
 
