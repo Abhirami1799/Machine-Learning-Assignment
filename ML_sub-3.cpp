@@ -191,7 +191,7 @@ int sx=x.size(), sy=y.size();
  vector <double> test_error, train_error;
  double min_error;
  int u=1;
-
+ cout<<"Manju is Bhatman"<<endl;
 //Displaying test errors for different degree curves
 
 
